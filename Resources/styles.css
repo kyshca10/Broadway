@@ -7,9 +7,10 @@ body {
     text-align: center;
 }
 
-.sub-header {
+.menu {
     font-size: 18px;
     color: white;
+    font-weight: bold;
 }
 
 .identify {
@@ -29,10 +30,25 @@ body {
     text-align: center;
 }
 
-.mid h2 {
+.mid h3 {
     font-size: 23px;
     font-weight: bold;
     color: white;
+}
+
+.footer {
+    text-align: center;
+}
+
+.bottomline {
+    background-color: gray;
+}
+
+.bottomline p {
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
+    font-weight: bold;
 }
 
 h1 {
